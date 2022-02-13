@@ -1,3 +1,3 @@
 # Finance-Project
 
-Leveraging Python Programming Fundamentals and Harnessing the Power of Machine Learning to Solve Real-World Practical Applications in Finance
+Leveraging Python programming fundamentals and harnessing the power of Machine Learning to solve real-world practical applications in finance
